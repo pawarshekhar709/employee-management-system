@@ -1,4 +1,4 @@
-# ShopType Management System
+# Employee Management System
 
 This is a simple Django project for managing Shop Types.
 
