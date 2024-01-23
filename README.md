@@ -22,4 +22,4 @@ This is a simple Django project for managing Shop Types.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/shoptype-management.git
+   git clone https://github.com/pawarshekhar709/employee-management-system.git
