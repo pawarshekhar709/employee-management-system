@@ -1,8 +1,4 @@
-# Employee Management System
 
-This is a simple Django project for managing Shop Types.
-
-## Features
 
 - View a list of Shop Types.
 - Add new Shop Types.
